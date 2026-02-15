@@ -27,8 +27,3 @@ A modern, responsive e-commerce landing page for Nike shoes, built with HTML and
 
 - `index.html`: The main entry point containing the website structure.
 - `style.css`: Custom stylesheet containing all the premium design rules and responsive media queries.
-
-## Credits
-
-Created by **Muhammad Ali**, **Younis**, and **Mohsin**.
-All rights reserved.
